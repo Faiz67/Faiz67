@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Machine Learning <br />
 - 🌱 I’m currently learning MERN Stack Development <br />
 - 📫 How to reach me: faiz786.fs51@gmail.com <br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiz67&show_icons=true)
