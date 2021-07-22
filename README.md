@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on Machine Learning <br />
 - 🌱 I’m currently learning MERN Stack Development <br />
-- 📫 How to reach me: faiz786.fs51@gmail.com <br />
-
+- ⚡ Fun fact: I'm a Night Owl 🦉
 ### Connect with me:
 
 [<img align="left" alt="Faiz67 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
