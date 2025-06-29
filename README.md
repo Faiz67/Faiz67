@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Machine Learning <br />
-- 🌱 I’m currently learning MERN Stack Development <br />
+- 🔭 I’m currently working on Full Stack Development <br />
+- 🌱 I’m currently learning System Design <br />
 - ⚡ Fun fact: I'm a Night Owl 🦉
 ### Connect with me:
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/faiz-shaikh-7914621bb/
+[linkedin]: https://www.linkedin.com/in/faiz67/
 <br />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiz67&show_icons=true)
+![Faiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Faiz67&show_icons=true)
